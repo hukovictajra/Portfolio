@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ed5af496.css",
-    "main.js": "/portfolio/static/js/main.c83dbb63.js",
+    "main.css": "/portfolio/static/css/main.08b83d51.css",
+    "main.js": "/portfolio/static/js/main.6dedc2d8.js",
     "reactPlayerYouTube.js": "/portfolio/static/js/reactPlayerYouTube.2746413e.chunk.js",
     "reactPlayerSoundCloud.js": "/portfolio/static/js/reactPlayerSoundCloud.76c39942.chunk.js",
     "reactPlayerVimeo.js": "/portfolio/static/js/reactPlayerVimeo.92f8e8d2.chunk.js",
@@ -56,8 +56,8 @@
     "static/media/arrow-rounded.svg": "/portfolio/static/media/arrow-rounded.454db4661b25ce4758ad0dfc16be4aef.svg",
     "static/media/hamburger-cross.svg": "/portfolio/static/media/hamburger-cross.dcd4fb03e07a035b1682a84c1d8f4c64.svg",
     "static/media/arrow.svg": "/portfolio/static/media/arrow.60ad2fc559cc2fa045ec89ee28300b32.svg",
-    "main.ed5af496.css.map": "/portfolio/static/css/main.ed5af496.css.map",
-    "main.c83dbb63.js.map": "/portfolio/static/js/main.c83dbb63.js.map",
+    "main.08b83d51.css.map": "/portfolio/static/css/main.08b83d51.css.map",
+    "main.6dedc2d8.js.map": "/portfolio/static/js/main.6dedc2d8.js.map",
     "reactPlayerYouTube.2746413e.chunk.js.map": "/portfolio/static/js/reactPlayerYouTube.2746413e.chunk.js.map",
     "reactPlayerSoundCloud.76c39942.chunk.js.map": "/portfolio/static/js/reactPlayerSoundCloud.76c39942.chunk.js.map",
     "reactPlayerVimeo.92f8e8d2.chunk.js.map": "/portfolio/static/js/reactPlayerVimeo.92f8e8d2.chunk.js.map",
@@ -73,7 +73,7 @@
     "reactPlayerPreview.36a065f9.chunk.js.map": "/portfolio/static/js/reactPlayerPreview.36a065f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed5af496.css",
-    "static/js/main.c83dbb63.js"
+    "static/css/main.08b83d51.css",
+    "static/js/main.6dedc2d8.js"
   ]
 }
